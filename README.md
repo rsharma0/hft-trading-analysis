@@ -21,6 +21,7 @@ pip install -r requirements.txt
 How to Run: Open the analysis notebook:
 jupyter notebook notebooks/EDA.ipynb
 The notebook includes: Loading LOBSTER message and order book data, Calculating spread and execution frequency, Plotting distributions and market behavior, Running Pearson correlation and t-tests, Saving visual outputs to reports/figures/
+
 Reproducibility: The project is fully reproducible. All source data is in data/raw/, and no external data sources or randomness are used. You can rerun the notebook from start to finish to regenerate all results and figures.
 
 Project Organization
